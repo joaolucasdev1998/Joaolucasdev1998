@@ -1,6 +1,4 @@
 
-<img src="https://LINK-DA-SUA-IMAGEM" alt="João Lucas com personagem" width="600"/>
-
 # 👋 Olá, eu sou o João Lucas  
 
 😃 Estudante de **Análise e Desenvolvimento de Sistemas**  
