@@ -4,7 +4,8 @@
 🎯 Atualmente praticando **Front-end (HTML, CSS, JavaScript)**  
 
 ---
-<img src="![spidey_mhhr](https://github.com/user-attachments/assets/c2a66108-9fbf-489e-aef0-a6c084ac657c)"
+![spidey_mhhr](https://github.com/user-attachments/assets/c2a66108-9fbf-489e-aef0-a6c084ac657c)
+
 
 ## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-lucas-oliveira-07b0442a7)
