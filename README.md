@@ -14,7 +14,7 @@ Sempre buscando novos desafios e projetos criativos. 🚀
 
 ## Tecnologias que Uso
 - **Linguagens:** HTML, CSS,JAVASCRIPT 
-- **Frameworks/Bibliotecas:** Pygame, React (em estudo)  
+- **Frameworks/Bibliotecas:** React (em estudo) 
 - **Outras ferramentas:** Git, GitHub, VS Code
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
