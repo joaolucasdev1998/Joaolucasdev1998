@@ -3,7 +3,7 @@
 
 ## Sobre Mim
 Sou apaixonado por programação e desenvolvimento de jogos.  
-Atualmente estou aprendendo **HTML**, **CSS** e **JavaScript**.
+Atualmente estou aprendendo **HTML**, **CSS** e **JavaScript** **python**
 
 💻 Minhas áreas de interesse:  
 - Desenvolvimento de jogos  
