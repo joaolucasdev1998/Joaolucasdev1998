@@ -13,7 +13,7 @@ Atualmente estou aprendendo **HTML**, **CSS**  **JavaScript** e **Python**
 Sempre buscando novos desafios e projetos criativos. 🚀
 
 ## Tecnologias que Uso
-- **Linguagens:** HTML, CSS,JAVASCRIPT 
+- **Linguagens:** HTML, CSS,JAVASCRIPT,PYTHON
 - **Frameworks/Bibliotecas:** React (em estudo) 
 - **Outras ferramentas:** Git, GitHub, VS Code
 
