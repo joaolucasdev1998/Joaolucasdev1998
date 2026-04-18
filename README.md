@@ -3,7 +3,7 @@
 
 ## Sobre Mim
 Sou apaixonado por programação e desenvolvimento de jogos.  
-Atualmente estou aprendendo **HTML**, **CSS**  **JavaScript** e **Python**
+Atualmente estou aprendendo **HTML**, **CSS**  **JavaScript**
 
 💻 Minhas áreas de interesse:  
 - Desenvolvimento de jogos  
@@ -13,14 +13,12 @@ Atualmente estou aprendendo **HTML**, **CSS**  **JavaScript** e **Python**
 Sempre buscando novos desafios e projetos criativos. 🚀
 
 ## Tecnologias que Uso
-- **Linguagens:** HTML, CSS,JAVASCRIPT,PYTHON
-- **Frameworks/Bibliotecas:** React (em estudo) 
+- **Linguagens:** HTML, CSS,JAVASCRIPT
 - **Outras ferramentas:** Git, GitHub, VS Code
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Conecte-se comigo! 
 
