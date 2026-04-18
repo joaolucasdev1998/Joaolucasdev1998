@@ -1,27 +1,37 @@
-# Olá, eu sou João Lucas Oliveira 👋
+# 👋 Olá, eu sou João Lucas
 
+Sou um desenvolvedor Front-End em constante evolução, focado em criar interfaces web simples, funcionais e bem estruturadas.
 
-## Sobre Mim
-Sou apaixonado por programação e desenvolvimento de jogos.  
-Atualmente estou aprendendo **HTML**, **CSS**  **JavaScript**
+Tenho interesse em desenvolvimento web e estou construindo minha base com projetos práticos para aprimorar minhas habilidades.
 
-💻 Minhas áreas de interesse:  
-- Desenvolvimento de jogos  
-- Front-end e design de interfaces  
-- Aprendizado contínuo de novas tecnologias  
+---
 
-Sempre buscando novos desafios e projetos criativos. 🚀
+## 🧠 Tecnologias que estudo
 
-## Tecnologias que Uso
-- **Linguagens:** HTML, CSS,JAVASCRIPT
-- **Outras ferramentas:** Git, GitHub, VS Code
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+---
 
-## Conecte-se comigo! 
+## 📌 Sobre mim
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jl.oliveira10?igsh=MTE0YXkxZXgxOTI1eg==)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-lucas-oliveira-07b0442a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Gmail](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg)](mailto:joaolucascanger@gmail.com)
+- 🎯 Foco em Front-End
+- 💻 Aprendendo desenvolvimento web com projetos práticos
+- 📚 Estudando HTML, CSS e JavaScript
+- 🚀 Buscando minha primeira oportunidade como dev
+
+---
+
+## 📬 Contato
+
+- 📧 Email: joaolucascanger@gmail.com 
+- 📸 Instagram: https://www.instagram.com/jl.oliveira10?igsh=MTE0YXkxZXgxOTI1eg==
+- 💼 LinkedIn: https://www.linkedin.com/in/joao-lucas-oliveira-07b0442a7?utm_source=share_via&utm_content=profile&utm_medium=member_android  
+- 💻 GitHub: https://github.com/joaolucasdev1998
+
+---
+
+## 🚀 Objetivo
+
+Me tornar um desenvolvedor Front-End, evoluindo através de projetos reais e boas práticas de desenvolvimento.
