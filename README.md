@@ -1,37 +1,44 @@
-# 👋 Olá, eu sou João Lucas
+👋 Olá! Eu sou João Lucas
 
-Sou um desenvolvedor Front-End em constante evolução, focado em criar interfaces web simples, funcionais e bem estruturadas.
+Desenvolvedor Front-End | Desenvolvimento Web
 
-Tenho interesse em desenvolvimento web e estou construindo minha base com projetos práticos para aprimorar minhas habilidades.
+Tenho interesse em criar aplicações web com interfaces modernas, funcionais e intuitivas.
 
----
-
-## 🧠 Tecnologias que estudo
-
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+Meu foco é desenvolver projetos práticos, aprimorar minhas habilidades em JavaScript e evoluir constantemente como desenvolvedor.
 
 ---
 
-## 📌 Sobre mim
+💻 Tecnologias
 
-- 🎯 Foco em Front-End
-- 💻 Aprendendo desenvolvimento web com projetos práticos
-- 📚 Estudando HTML, CSS e JavaScript
-- 🚀 Buscando minha primeira oportunidade como dev
-
----
-
-## 📬 Contato
-
-- 📧 Email: joaolucascanger@gmail.com 
-- 📸 Instagram: https://www.instagram.com/jl.oliveira10?igsh=MTE0YXkxZXgxOTI1eg==
-- 💼 LinkedIn: https://www.linkedin.com/in/joao-lucas-oliveira-07b0442a7?utm_source=share_via&utm_content=profile&utm_medium=member_android  
-- 💻 GitHub: https://github.com/joaolucasdev1998
+- HTML5
+- CSS3
+- JavaScript
+- Git e GitHub
 
 ---
 
-## 🚀 Objetivo
+🚀 Projetos em destaque
 
-Me tornar um desenvolvedor Front-End, evoluindo através de projetos reais e boas práticas de desenvolvimento.
+- Conversor de moedas com manipulação do DOM.
+- Conversor de moedas utilizando API.
+- Projetos de interfaces e aplicações web.
+
+---
+
+🎯 Atualmente trabalhando em
+
+- Aprimoramento da lógica de programação.
+- JavaScript: funções, objetos, arrays e manipulação do DOM.
+- Desenvolvimento de interfaces responsivas.
+- Construção de projetos práticos.
+
+---
+
+📫 Contato
+
+- "LinkedIn" (https://www.linkedin.com/in/joao-lucas-oliveira-07b0442a7)
+- "GitHub" (https://github.com/joaolucasdev1998)
+
+---
+
+⭐ Sempre buscando aprender, construir e evoluir através da programação.
